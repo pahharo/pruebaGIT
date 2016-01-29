@@ -12,3 +12,4 @@ while w:
 	w=f1.readline();
 f1.close()
 f2.close()
+print 'Modificacion desde remoto'
